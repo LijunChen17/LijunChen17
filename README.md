@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p>Soy un estudiante de Grado Superior de Desarrollo de Applicaciones Multiplataformas y soy una persona que le gusta mucho la técnologia y me gusta ir actualizandome sobre los conocimientos y las modas que van moviendo el día a día,
 soy un apasionado de los vehiculos y los deportes a demas de los videojuegos tambien me gusta ayudar a la gente que lo necesita esforzarme en las metas.</p>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 
